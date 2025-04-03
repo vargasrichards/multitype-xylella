@@ -1,6 +1,8 @@
-# Stochastic Explicitly SCIR Epidemics on Multitype Hosts
+# Spatial, Stochastic SCIR Epidemics on Multi-type Landscapes with Crypticity
 
 ## This repository contains code and some data from NST Part II project 
+
+#### A. Vargas Richards, Feb 2025
 
 ### Guide to directory structure:
 ------------------------------------
@@ -31,6 +33,4 @@ Files of minor importance:
 'sensitivity_analyses.py' used for sensitivity analysis.
 
 
-A. Vargas Richards, Feb 2025
 
-with thanks to Nik Cunniffe for his capable supervision. 
