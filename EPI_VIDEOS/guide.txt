@@ -1,0 +1,1 @@
+# Contains an mp4 video illustrating the progression of an epidemic in absence of control.

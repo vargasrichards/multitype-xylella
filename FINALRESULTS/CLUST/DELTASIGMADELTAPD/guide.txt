@@ -1,0 +1,5 @@
+# 2D Parameter Scan for FracB and Single Radius Control: Landscape Size 4000
+# Neyman Scott Landscape 
+# Kernel = <function exponential_kernel at 0x7f6b04b4a700>; Scale Parameter = 119m ; Sps Parameters = [[0.0025     0.09       0.00285714 0.00053   ]
+ [0.0025     0.09       0.002      0.00053   ]]
+# control_start = random

@@ -1,0 +1,4 @@
+# 2D Parameter Scan for FracB and Single Radius Control: Landscape Size 4000
+# Kernel = <function cauchy_thick at 0x7f8e8ad06b60>; Scale Parameter = 84.5m ; Sps Parameters = [[0.00785    0.14       0.00333333 0.00053   ]
+ [0.00785    0.14       0.00333333 0.00053   ]]
+# control_start = random

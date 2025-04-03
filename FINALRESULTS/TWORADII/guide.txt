@@ -1,0 +1,5 @@
+# 2D Parameter Scan for Two-Radius Control (res = 100 m): Landscape Size 3000
+# Nhosts = 1110; total host density = 123.33333333333333 hosts/km^-2# Kernel = <function exponential_kernel at 0x7f7afb7da660>; Scale Parameter = 119m>
+ [0.01       0.14       0.002      0.00053   ]]
+# control_start = random
+# ######################################################
